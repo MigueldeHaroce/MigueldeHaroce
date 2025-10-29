@@ -14,12 +14,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Labels
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 12
-
+          token: ${{ secrets.METRICS_TOKEN }}
