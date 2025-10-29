@@ -1,4 +1,4 @@
-## ⠀
+##
 <div style="display:flex;flex-direction:row;justify-content:center;">
   <p float="right">
     <img src="/github-metrics.svg" alt="Metrics" style="height: auto; width: 400px;">⠀⠀⠀⠀⠀<img src="/IB_LOGO.png" width="250">
