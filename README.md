@@ -12,11 +12,11 @@
 
 ---
 
-I'm an IB math student strongly interest in software engineering, artificial intelligence and blockchain encryption.
+- IB math student strongly interest in software engineering, artificial intelligence and blockchain encryption.
 
-I aim to keep learning more and more
+- Aiming to keep learning more and more
 
-Outside of tech, I stay connected to my roots ✡️ !!עַם יִשְׂרָאֵל חַי ✡
+- Outside of tech, I stay connected to my roots ✡️ !!עַם יִשְׂרָאֵל חַי ✡
 
 ---
 
