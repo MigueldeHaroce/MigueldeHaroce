@@ -8,7 +8,7 @@
 </div>
 
 ##
-<h3 align="left">👋 Hi there, I'm Miguel de Haro</h3> 
+<h3 align="left"> Hello, I am Miguel de Haro</h3> 
 
 ---
 
@@ -16,8 +16,6 @@
 
 - Aiming to keep learning more and more
 
-- Outside of tech, I stay connected to my roots ✡️ !!עַם יִשְׂרָאֵל חַי ✡
-
 ---
 
-- 📫 Reach me on [X](https://x.com/MigueldeHaroce) or [email](mailto:migueldeharoce@gmail.com)  
+- Reach me on [X](https://x.com/MigueldeHaroce) or [email](mailto:migueldeharoce@gmail.com)  
