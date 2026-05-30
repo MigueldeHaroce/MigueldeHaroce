@@ -18,4 +18,4 @@
 
 ---
 
-- Reach me on [X](https://x.com/MigueldeHaroce) or [email](mailto:migueldeharoce@gmail.com)  
+- Reach me on [email](mailto:migueldeharoce@gmail.com)  
